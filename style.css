@@ -1,0 +1,29 @@
+*{
+    font-weight: normal;
+}
+
+#blue{
+    color: blue;
+}
+
+#white{
+    color: white;
+}
+
+#black{
+    color: black;
+}
+
+#brown{
+    color: brown;
+}
+
+
+#grey{
+    color: gray;
+}
+
+#ukuran{
+    height: 200px;
+    width: 200px;
+}
